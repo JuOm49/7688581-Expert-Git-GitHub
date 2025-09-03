@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+installer un VPN comme NORD VPN, avoir fait trois fois le tour de son village et chanté la macarenna tout en dansant le Jerk
 
 ```
 
